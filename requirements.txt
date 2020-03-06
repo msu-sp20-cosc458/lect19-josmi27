@@ -1,5 +1,1 @@
-pylint-flask==0.5
-pylint-plugin-utils==0.6
-python-dateutil==2.8.1
-pytz==2019.3
-PyYAML==5.2
+
