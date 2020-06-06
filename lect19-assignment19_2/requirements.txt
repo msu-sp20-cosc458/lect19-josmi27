@@ -10,7 +10,7 @@ CodeIntel==0.9.3
 colorama==0.4.1
 configparser==4.0.2
 cryptography==2.3
-Django==1.11.28
+Django==1.11.29
 docutils==0.15.2
 enum34==1.1.6
 Flask==1.1.1
